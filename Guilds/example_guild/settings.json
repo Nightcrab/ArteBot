@@ -1,0 +1,13 @@
+{
+    "banned_users": [],
+    "custom_commands": [],
+    "prefix": "!",
+    "admins": [
+        "108090007117438976"
+    ],
+    "enabled_events": [],
+    "greet": true,
+    "greet_channel": "300858654624841731",
+    "mod_channel": null,
+    "disabled": []
+}
